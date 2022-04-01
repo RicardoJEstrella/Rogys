@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="soft_white">#DEDEDE</color>
+
+
+    <color name="grey_dark">#1C1C1C</color>
+    <color name="grey_light">#606060</color>
+    <color name="grey_mid">#222934</color>
+
+    <!-- Card colors -->
+
+    <color name="card_night">#002B4D</color>
+    <color name="card_title_night">#7FD7FF</color>
+    <color name="card_text_night">#E3E3E3</color>
+
+    <color name="card_night_chosen">#0E4D00</color>
+    <color name="card_title_night_chosen">#A0F779</color>
+    <color name="card_text_night_chosen">#EAEAEA</color>
+
+
+    <color name="card_day">#AB004D</color>
+    <color name="card_title_day">#FFC0D9</color>
+    <color name="card_text_day">#EEDDDD</color>
+
+    <color name="card_day_chosen">#1DA000</color>
+    <color name="card_title_day_chosen">#D6FFC3</color>
+    <color name="card_text_day_chosen">#E8F1E6</color>
+
+    <!-- Reds -->
+    <color name="red_200">#EF9A9A</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="red_A400">#FF3D00</color>
+    <color name="red_A700">#DD2C00</color>
+    <color name="crimson">#A20025</color>
+    <color name="crimson_day">#D60031</color>
+    <color name="red">#E51400</color>
+
+    <!-- Blues -->
+    <color name="blue_300">#B8FEFF</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_600">#039BE5</color>
+    <color name="blue_700">#0288D1</color>
+    <color name="blue_800">#0277BD</color>
+    <color name="blue_900">#01579B</color>
+    <color name="blue_A200">#448AFF</color>
+    <color name="blue_A400">#2979FF</color>
+    <color name="blue_A700">#2962FF</color>
+    <color name="blue_hard">#0033C1</color>
+
+    <!-- Turquoise -->
+    <color name="turquoise_200">#80DEEA</color>
+    <color name="turquoise_300">#4DD0E1</color>
+    <color name="turquoise_400">#26C6DA</color>
+    <color name="turquoise_500">#00BCD4</color>
+    <color name="turquoise_600">#00AAC1</color>
+    <color name="turquoise_700">#0097A7</color>
+
+    <!-- Oranges -->
+    <color name="orange_200">#FF6E40</color>
+    <color name="orange_400">#FF3D00</color>
+    <color name="orange_500">#FF5722</color>
+    <color name="orange_700">#DD2C00</color>
+
+    <!-- Yellows -->
+    <color name="yellow_100">#FFEEB6</color>
+    <color name="yellow_200">#FFAB40</color>
+    <color name="yellow_400">#FF9100</color>
+    <color name="yellow_700">#FF6D00</color>
+    <color name="yellow_900">#B76800</color>
+    <color name="yellow_google">#FED04F</color>
+    <color name="amber">#F0A30A</color>
+
+    <!-- Greens -->
+    <color name="green_300">#B6FFBB</color>
+    <color name="green_400">#9CCC65</color>
+    <color name="green_500">#8BC34A</color>
+    <color name="green_600">#228800</color>
+    <color name="green_A100">#B9F6CA</color>
+    <color name="green_A200">#69F0AE</color>
+    <color name="green_A400">#00E676</color>
+    <color name="green_A700">#00C853</color>
+    <color name="green_hard">#0F9600</color>
+
+    <!-- Greys -->
+    <color name="grey_400">#78909C</color>
+    <color name="grey_500">#607D8B</color>
+    <color name="grey_600">#546E7A</color>
+    <color name="grey_700">#455A64</color>
+    <color name="grey_800">#37474F</color>
+    <color name="grey_900">#263238</color>
+    <color name="grey_1000">#21282C</color>
+
+    <color name="greeeey">#343434</color>
+
+    <color name="greyish">#E6E6E6</color>
+    <color name="light_grey">#DDDDDD</color>
+
+    <color name="white_darker">#F4F4F4</color>
+
+
+    <!-- NEW COLORS (CHIP NAVIGATION BAR) -->
+
+    <color name="soft_pink">#F8DAF0</color>
+    <color name="hard_pink">#B65590</color>
+    <color name="hard_pink_darker">#8F1860</color>
+
+    <color name="app_primary_pink">#FBB1B1</color>
+    <color name="app_primary_pink_dark">#BA7A7A</color>
+    <color name="app_secondary_pink">#FFD4D4</color>
+    <color name="app_super_light_pink">#FFF6F6</color>
+
+    <color name="dark_card_color">#141414</color>
+    <color name="black_light_card_color">#333333</color>
+
+    <color name="primary_pink">#C57487</color>
+    <color name="primary_pink_lighter">#E494A7</color>
+    <color name="secondary_pink">#FAA9C3</color>
+    <color name="color_orange">#F4442D</color>
+
+    <color name="text_grey">#222934</color>
+    <color name="text_grey_dark">#212225</color>
+    <color name="text_grey_light">#989898</color>
+
+    <color name="soft_yellow">#FDEFD3</color>
+    <color name="hard_yellow">#DEA43B</color>
+    <color name="hard_yellow_darker">#9C6C14</color>
+
+    <color name="soft_turquoise">#D0E9F2</color>
+    <color name="soft_turquoise_clearer">#E0F7FF</color>
+    <color name="hard_turquoise">#377D93</color>
+    <color name="hard_turquoise_darker">#124656</color>
+
+    <color name="soft_purple">#E2D9F5</color>
+    <color name="hard_purple">#604EA4</color>
+    <color name="hard_purple_darker">#362967</color>
+
+    <color name="bluish">#131832</color>
+    <!-- ArcSeekBar Gradient -->
+    <color name="sliderBack">#4227395a</color>
+    <color name="green_1">#F8FFA9</color>
+    <color name="green_2">#99FF00</color>
+    <color name="green_3">#9FBF00</color>
+    <color name="orange_1">#CB7403</color>
+    <color name="orange_2">#DA5A00</color>
+    <color name="orange_3">#7C3C00</color>
+    <color name="red_1">#871700</color>
+    <color name="colorBorder">#E8E6E6</color>
+    <color name="colorDarkGrey">#878787</color>
+
+
+    <color name="grey_bluish_dark">#111821</color>
+    <color name="grey_bluish_light">#2D323E</color>
+    <color name="main_orange_color">#FE8B02</color>
+
+</resources>

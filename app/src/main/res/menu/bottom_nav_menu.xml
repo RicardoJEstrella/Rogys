@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_home"
+        android:title="@string/Home"
+        app:cnb_backgroundColor="@color/app_super_light_pink"
+        app:cnb_iconColor="@color/app_primary_pink"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_textColor="@color/app_primary_pink" />
+
+    <item
+        android:id="@+id/navigation_products"
+        android:icon="@drawable/ic_coffee"
+        android:title="@string/Products"
+        app:cnb_backgroundColor="@color/app_super_light_pink"
+        app:cnb_iconColor="@color/app_primary_pink"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_textColor="@color/app_primary_pink" />
+
+    <item
+        android:id="@+id/navigation_orders"
+        android:icon="@drawable/ic_basket"
+        android:title="@string/Orders"
+        app:cnb_backgroundColor="@color/app_super_light_pink"
+        app:cnb_iconColor="@color/app_primary_pink"
+        app:cnb_iconTintMode="src_in"
+        app:cnb_textColor="@color/app_primary_pink" />
+
+</menu>

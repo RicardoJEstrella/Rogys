@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "225568351895",
+    "project_id": "rogy-s",
+    "storage_bucket": "rogy-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225568351895:android:39471c0084a340fcb52bd2",
+        "android_client_info": {
+          "package_name": "com.techpig.rogys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225568351895-r8qj82d06e6k3c83lsv0hurnj7hvqgps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techpig.rogys",
+            "certificate_hash": "17ee680c9e3a8ea470ce7219ccecd2f930f1926f"
+          }
+        },
+        {
+          "client_id": "225568351895-0d75bqen6o1v025dpo0co9pkibus8hn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-sTUk5t6kmlaCzNx8d65OXNwpPjecgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225568351895-0d75bqen6o1v025dpo0co9pkibus8hn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
